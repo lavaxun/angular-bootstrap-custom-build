@@ -1,0 +1,17 @@
+{
+  "name": "ui-bootstrap-custom",
+  "version": "0.1.0",
+  "authors": [
+    "xun <xun1991@gmail.com>"
+  ],
+  "description": "custom build angular bootstrap that only include popover",
+  "main": "ui-bootstrap-custom-tpls-0.13.0.min.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
