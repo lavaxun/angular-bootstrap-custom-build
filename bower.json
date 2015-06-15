@@ -1,10 +1,10 @@
 {
   "name": "ui-bootstrap-custom",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "authors": [
     "xun <xun1991@gmail.com>"
   ],
-  "description": "custom build angular bootstrap that only include popover & progressbar",
+  "description": "custom build angular bootstrap that only include popover, progressbar, carousel",
   "main": "ui-bootstrap-custom-tpls-0.13.0.min.js",
   "license": "MIT",
   "ignore": [
